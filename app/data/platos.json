@@ -1,0 +1,24 @@
+{
+    "platos":[
+        {
+            "nombre":"albondigas con arroz",
+            "url":"https://saborgourmet.com/wp-content/uploads/Alb%C3%B3ndigas-con-arroz.jpg",
+            "screen":"albondigas"
+        },
+        {
+            "nombre":"papas con carne",
+            "url":"https://t1.rg.ltmcdn.com/es/images/4/5/4/img_carne_con_papas_estilo_cubano_9454_600.jpg",
+            "screen":"papas"
+        },
+        {
+            "nombre":"lasagna",
+            "url":"https://barilla.azureedge.net/~/media/images/en_us/hero-images/oven-ready-lasagna.jpg",
+            "screen":"lasagna"
+        },
+        {
+            "nombre":"tallarines con salsa",
+            "url":"https://www.unimarc.cl/wp-content/uploads/2014/12/Tallarines-con-Salsa-de-Pimentones-Asados-1.jpg",
+            "screen":"tallarines"
+        }
+    ]
+}
